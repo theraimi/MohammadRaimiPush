@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "966227570671",
+    "firebase_url": "https://pushraimi.firebaseio.com",
+    "project_id": "pushraimi",
+    "storage_bucket": "pushraimi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966227570671:android:7d5a6c4fb7657155",
+        "android_client_info": {
+          "package_name": "com.example.theraimi.mohammadraimi_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966227570671-40pavkji99is2n4cldatvjvq0oo934d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGyvU3mrjtv2iiNuJ0ZOlAorfkDsWwu1U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
